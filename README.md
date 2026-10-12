@@ -1,3 +1,5 @@
+<p align="center"><img src="https://cdn.discordapp.com/app-icons/1559115551887073382/72de148f021cb6061f3a86908f4ec52d.png?size=1024" width="180" alt="Nebulize Overseer profile picture"></p>
+
 # Nebulize Overseer — public preview
 
 Discord community management, moderation, engagement and website controls in one private build.
